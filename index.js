@@ -1,6 +1,6 @@
 // TODO(developer): Set to client ID and API key from the Developer Console
 const CLIENT_ID = '509726254247-3khrc8evl7i0g7lfvfogojda8569o6ia.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyAb-CInxch9Og9IyRaXDQNTpnSDNJo5zhQ';
+const API_KEY = 'AIzaSyBr6mvqzD_HdeUQObbWfjvf3oYHfkjPsTk';
 
 // Discovery doc URL for APIs used by the quickstart
 const DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
