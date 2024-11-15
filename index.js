@@ -124,8 +124,10 @@ async function displayItems(page, element) {
         line++;
     });
 
+    //img = `1VvHkjo-zEn8C_YN6OitIFK7CzcqKxymq`;
+    const img_link = `https://drive.google.com/thumbnail?id=${img}&sz=w1000`
     //經節
-    document.getElementById('picture').setAttribute("src", `${img}`)
+    document.getElementById('picture').setAttribute("src", `${img_link}`)
     //聚会時間
     document.getElementById('date').innerHTML = `日期： 周五(${date}) 晚上七点`;
     //聚会地点
